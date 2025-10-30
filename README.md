@@ -11,6 +11,9 @@ Excel con Python y OpenPyXL
 Master en Vba Excel-Desarrolla macros y aplicaciones (2021).
   - https://www.udemy.com/certificate/UC-27d19f2b-3e86-45a6-888f-1a6cb266b9b9/?trk=public_profile_certification-title
 
+Web Scrapy Selenium with Python
+  - https://www.udemy.com/certificate/UC-38deb8aa-5b0a-4e28-9a88-11b50ab5ed60/
+
 Cisco
 
 Python Essential 1
