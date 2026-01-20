@@ -1,7 +1,7 @@
 # Certificates
 
 Snowflake Plataform Trainning
-https://training.snowflake.com/lmt/clmsCertificate.prMain?in_sessionId=4A059JA0400835AJ&in_learnerid=202707822&in_language_id=en-us&in_region=fr&in_courseId=205383805&in_type=PDF
+
 
 Udemy
 
