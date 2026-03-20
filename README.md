@@ -1,7 +1,6 @@
 # Certificates
 
-Snowflake Plataform Trainning
-
+ -Snowflake Plataform Trainning
 
 Udemy
 
